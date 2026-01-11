@@ -1,0 +1,4 @@
+{'habits': ['Consistency', 'Learning daily', 'Discipline'],
+ 'name': 'Monika',
+ 'projects': {'current': 'Python practice', 'future': 'Web scraping'},
+ 'skills': ['Python', 'CMD', 'File Handling', 'Automation']}

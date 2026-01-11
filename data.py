@@ -1,0 +1,1 @@
+data = {'name': 'Monika', 'skills': ['Python', 'CMD', 'Files'], 'year': 2026}
